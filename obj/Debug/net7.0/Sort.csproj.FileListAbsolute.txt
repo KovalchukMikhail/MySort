@@ -1,0 +1,15 @@
+D:\Учеба\Самостоятельно\C Sharp\Sort\obj\Debug\net7.0\Sort.csproj.AssemblyReference.cache
+D:\Учеба\Самостоятельно\C Sharp\Sort\obj\Debug\net7.0\Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Самостоятельно\C Sharp\Sort\obj\Debug\net7.0\Sort.AssemblyInfoInputs.cache
+D:\Учеба\Самостоятельно\C Sharp\Sort\obj\Debug\net7.0\Sort.AssemblyInfo.cs
+D:\Учеба\Самостоятельно\C Sharp\Sort\obj\Debug\net7.0\Sort.csproj.CoreCompileInputs.cache
+D:\Учеба\Самостоятельно\C Sharp\Sort\bin\Debug\net7.0\Sort.exe
+D:\Учеба\Самостоятельно\C Sharp\Sort\bin\Debug\net7.0\Sort.deps.json
+D:\Учеба\Самостоятельно\C Sharp\Sort\bin\Debug\net7.0\Sort.runtimeconfig.json
+D:\Учеба\Самостоятельно\C Sharp\Sort\bin\Debug\net7.0\Sort.dll
+D:\Учеба\Самостоятельно\C Sharp\Sort\bin\Debug\net7.0\Sort.pdb
+D:\Учеба\Самостоятельно\C Sharp\Sort\obj\Debug\net7.0\Sort.dll
+D:\Учеба\Самостоятельно\C Sharp\Sort\obj\Debug\net7.0\refint\Sort.dll
+D:\Учеба\Самостоятельно\C Sharp\Sort\obj\Debug\net7.0\Sort.pdb
+D:\Учеба\Самостоятельно\C Sharp\Sort\obj\Debug\net7.0\Sort.genruntimeconfig.cache
+D:\Учеба\Самостоятельно\C Sharp\Sort\obj\Debug\net7.0\ref\Sort.dll
