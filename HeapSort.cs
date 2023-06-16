@@ -8,32 +8,20 @@ namespace Sort
             int firstChildIndex = 2 * currentIndex + 1;
             int secondChildIndex = 2 * currentIndex + 2;
             int lastIndex = array.Length - 1;
-            while (currentIndex >= 0)
-            {
-                firstChildIndex = 2 * currentIndex + 1;
-                secondChildIndex = 2 * currentIndex + 2;
-                int indexOfMaxNum = GetIndexMaxValue(array, currentIndex, firstChildIndex, secondChildIndex, lastIndex);
-                changeValue(array, currentIndex, indexOfMaxNum);
-                currentIndex--;
-            }
-            changeValue(array, 0, lastIndex);
-            lastIndex--;
-            currentIndex = 0;
             while (lastIndex > 0)
             {
                 int indexOfMaxNum = 2 * currentIndex + 1;
-                while (true)
+                while (currentIndex >= 0)
                 {
                     firstChildIndex = 2 * currentIndex + 1;
                     secondChildIndex = 2 * currentIndex + 2;
                     indexOfMaxNum = GetIndexMaxValue(array, currentIndex, firstChildIndex, secondChildIndex, lastIndex);
-                    if(currentIndex == indexOfMaxNum) break;
                     changeValue(array, currentIndex, indexOfMaxNum);
-                    currentIndex = indexOfMaxNum;
+                    currentIndex--;
                 }
                 changeValue(array, 0, lastIndex);
-                currentIndex = 0;
                 lastIndex--;
+                currentIndex = lastIndex / 2;
             }
         }
 
